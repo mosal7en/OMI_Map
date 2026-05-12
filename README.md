@@ -1,4 +1,4 @@
-## My Pages
+## EMAAR Misr OMI Map
 
 [![OMI General Map](https://img.shields.io/badge/OMI_General_Map-blue)](https://mosal7en.github.io/OMI_Map/OMI_genral_navigation.drawio.html)
 [![All Cities Map](https://img.shields.io/badge/All_Cities_Map-blue)](https://mosal7en.github.io/OMI_Map/AllCities_Map.drawio.html)
